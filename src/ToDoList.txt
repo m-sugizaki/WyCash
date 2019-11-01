@@ -3,3 +3,5 @@
   amount‚ğprivate‚É‚·‚é
 ¡ Dollar‚Ì•›ì—p‚Ç‚¤‚·‚éH
   Money‚ÌŠÛ‚ßˆ—‚Ç‚¤‚·‚éH
+  equals()
+  hashCode()
