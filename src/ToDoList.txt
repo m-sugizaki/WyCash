@@ -1,7 +1,7 @@
-  $5+10CHF=$10iƒŒ[ƒg‚ª2:1‚Ìê‡j
-¡ $5*2=$10
-  amount‚ðprivate‚É‚·‚é
-¡ Dollar‚Ì•›ì—p‚Ç‚¤‚·‚éH
-  Money‚ÌŠÛ‚ßˆ—‚Ç‚¤‚·‚éH
-  equals()
-  hashCode()
+â–¡ $5+10CHF=$10ï¼ˆãƒ¬ãƒ¼ãƒˆãŒ2:1ã®å ´åˆï¼‰
+â–  $5*2=$10
+â–¡ amountã‚’privateã«ã™ã‚‹
+â–  Dollarã®å‰¯ä½œç”¨ã©ã†ã™ã‚‹ï¼Ÿ
+â–¡ Moneyã®ä¸¸ã‚å‡¦ç†ã©ã†ã™ã‚‹ï¼Ÿ
+â–¡ equals()
+â–¡ hashCode()
