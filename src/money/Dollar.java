@@ -6,6 +6,6 @@ class Dollar {
 	Dollar(int amount) {
 	}
 
-	Dollar times(int multiplier) {
+	void times(int multiplier) {
 	}
 }
