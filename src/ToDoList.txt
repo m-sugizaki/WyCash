@@ -4,7 +4,7 @@
 ■ Money.reduce(Money)
 ■ Moneyを変換して換算を行う
 ■ Reduce(Bank, String)
-□ Sum.plus
+■ Sum.plus
 □ Expression.times
 
 ■ $5*2=$10
